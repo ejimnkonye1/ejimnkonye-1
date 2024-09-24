@@ -18,19 +18,19 @@
 <a href="mailto:victoluolatunji@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
- <a href="https://komarev.com/ghpvc/?username=victorola-coder&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=victorola-coder&label=PROFILE+VIEWS&style=for-the-badge&color=green" />
+ <a href="https://komarev.com/ghpvc/?username=ejimnkonye1&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=ejimnkonye1&label=PROFILE+VIEWS&style=for-the-badge&color=green" />
   </a>&nbsp;&nbsp;
   </a>&nbsp;&nbsp;
  <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
   <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=victorola-coder&show_icons=true&theme=tokyonight&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ejimnkonye1&show_icons=true&theme=tokyonight&line_height=25">
   </p>
   <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=victorola-coder&langs_count=6&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ejimnkonye1&langs_count=6&layout=compact">
   </p>
   <p align="left">
-   <img src = "http://github-readme-streak-stats.herokuapp.com?user=victorola-coder&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
+   <img src = "http://github-readme-streak-stats.herokuapp.com?user=ejimnkonye1&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
 </p>
   <p align="left">
  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25507%26project%3D%26in=0">
