@@ -1,21 +1,21 @@
 <p align="center">
-  <h1 align='center'>Hi there!👋🏾 I'm VickyJay⚡</h1> 
-  <p align="center"> I am a Software Developer focused on Frontend (Javascript/React/Typescript/NextJs + TailwindCSS)</p>
+  <h1 align='center'>Hi there!👋🏾 I'm Ejimnkonye⚡</h1> 
+  <p align="center"> I am a Software Developer focused on Frontend (Javascript/React/Python + TailwindCSS and Bootstrap)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
   <p align='center'> Reach out to me here 👇</p>
 </p>
 
 <p align='center'>
-<a href="https://wa.me/2349075789680?text=Hello+Victor" target="_blank">
+<a href="https://wa.me/2347062487335?text=Hello+Ejimnkonye" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/heyVickyJay" target="_blank">
+<a href="https://twitter.com/Ejimnkonye" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/victor-olatunji-889568246/" target="_blank">
+<a href="https://www.linkedin.com/in/Ejimnkonye Onyedika" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:victoluolatunji@gmail.com" target="_blank">
+<a href="mailto:ejimnkonyeonyedika@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  <a href="https://komarev.com/ghpvc/?username=ejimnkonye1&label=PROFILE+VIEWS">
